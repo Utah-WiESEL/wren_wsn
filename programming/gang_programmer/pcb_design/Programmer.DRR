@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Programmer.PcbDoc   4/11/2013  11:18:36 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Programmer.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          8                4.88 Inch (123.88 mm)
+T2        31mil (0.7874mm)         Round          100              11.91 Inch (302.55 mm)
+T3        78.74mil (2mm)           Round          16               8.44 Inch (214.28 mm)
+T4        82.68mil (2.10007mm)     Round          16               8.12 Inch (206.28 mm)
+T5        87mil (2.2098mm)         Round          2                2.85 Inch (72.39 mm)
+T6        62.99mil (1.59995mm)     Round          16        NPTH   8.40 Inch (213.48 mm)
+T7        125mil (3.175mm)         Round          4         NPTH   6.15 Inch (156.18 mm)
+---------------------------------------------------------------------------
+Totals                                            162              50.75 Inch (1289.03 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

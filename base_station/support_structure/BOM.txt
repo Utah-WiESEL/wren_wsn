@@ -1,0 +1,40 @@
+Bill of Materials (1x Base Station):
+
+
+Wood (if using a laser, wood lighter in color will cut cleaner):
+
+	Birch Project Panel Plywood:
+		1/4 in. x 2 ft. x 4 ft. (x2)
+	
+	Dowels:
+		1/2 in. x 48 in. (x6)
+	
+
+Hardware:
+	Wood Screws:
+		#4 x 1/2 in. Flat Head Phillips (30x) - used to mount PCB blades onto wood base
+		
+		#6 x 1 in. Flat Head Phillips (12x) - used to mount stack legs onto wooden base
+		
+	Drywall Screws:
+		1-1/4 x 8 GA Coarse Thread (16x) - used to mount wooded support onto wooded base
+	
+	Power Mounting - used for mounting PSU and AC connector onto wooden base
+		Switch Plate Screws:
+			#6-32 x 1 in.  (x4)
+	
+		Machine Screw Nuts:
+			#6-32 (x4)
+			
+		Flat Washers:
+			#6 (x8)
+	
+Glue:
+	Any generic wood glue
+	
+
+Other:
+
+	Trim Tray - used for diluting wood glue
+	Small Paint Brushes - used for applying glue
+	Rags - used to wipe off excess glue

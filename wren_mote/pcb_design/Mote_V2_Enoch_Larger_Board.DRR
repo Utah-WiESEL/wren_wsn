@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Mote_V2_Enoch_Larger_Board.PcbDoc   9/26/2012  12:07:37 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Mote_V2_Enoch_Larger_Board.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          180              14.32 Inch (363.68 mm)
+T2        12.99mil (0.32995mm)     Round          31               3.86 Inch (98.13 mm)
+T3        22mil (0.5588mm)         Round          1                0.00 Inch (0.00 mm)
+T4        28mil (0.7112mm)         Round          3                0.93 Inch (23.68 mm)
+T5        70.87mil (1.8001mm)      Round          2                0.40 Inch (10.10 mm)
+T6        100mil (2.54mm)          Round          1         NPTH   0.00 Inch (0.00 mm)
+T7        125mil (3.175mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            219              19.51 Inch (495.59 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

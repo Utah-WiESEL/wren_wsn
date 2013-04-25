@@ -1,0 +1,1 @@
+"../BSL430_API.c" "../BSL430_Command_Interpreter.c" "../BSL430_Low_Level_Init.asm" "../BSL430_PI_USCIB_I2C.c" "../main.c" 

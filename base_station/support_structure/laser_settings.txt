@@ -1,0 +1,19 @@
+Laser Cutter Specs:
+	60w
+	Auto Focus (on)
+	
+
+1/4 in. wood (light color)
+	speed:		30-34%
+	power:		100%
+	frequency:	500Hz
+	
+1/8 in. acrylic (clear)
+	speed:		20%
+	power:		100%
+	frequency:	5000Hz
+	
+1/16 in. acrylic (clear)
+	speed:		35%
+	power:		40%
+	frequency:	5000Hz
