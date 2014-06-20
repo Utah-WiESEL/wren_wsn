@@ -1,16 +1,15 @@
-
-README for Wireless Downloader
+README for Mote Client
 
 Author/Contact:
 
-
+  
 
 Description:
 
 
   To use this application:
 
-
+  
 Tools:
 
   None
