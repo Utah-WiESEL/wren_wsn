@@ -1,0 +1,19 @@
+#ifndef STORAGE_VOLUMES_H
+#define STORAGE_VOLUMES_H
+
+enum {
+  VOLUME_CONFIGTEST, 
+  VOLUME_LOGTEST, 
+};
+
+#endif
+#if defined(VS)
+VS(VOLUME_CONFIGTEST, 8)
+VS(VOLUME_LOGTEST, 4088)
+#undef VS
+#endif
+#if defined(VB)
+VB(VOLUME_CONFIGTEST, 0)
+VB(VOLUME_LOGTEST, 8)
+#undef VB
+#endif
