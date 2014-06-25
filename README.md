@@ -11,4 +11,4 @@ The purpose of this Wiki is to provide the source for our hardware, software, an
 
 For more info:
 
-http://wiesel.ece.utah.edu/documents/48
+http://wiesel.ece.utah.edu/media/documents/pdf/2012/12/13/sensys-demo-2012.pdf
